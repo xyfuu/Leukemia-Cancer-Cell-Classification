@@ -43,5 +43,3 @@ From this Google Drive link:
 4. Connect a device or use an emulator.
 5. Upload a cell image and let the app classify it as **normal** or **abnormal**.
 
-## 📁 Repository Structure
-
